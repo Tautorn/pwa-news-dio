@@ -4,12 +4,14 @@ Live code to [Digital Innovation One](https://digitalinnovation.one/)
 
 Organized at **07/21/2020 at 8 p.m (Brazil)**
 
+![PWA](./docs/finished.png)
+
 
 ### Link to access the application: [PWA NEWS DIO](https://pwa-news-dio.netlify.app/)
 
 ### API used in this POC: [API](https://github.com/Tautorn/pwa-news-api)
 
-### Slides used in this live coding:  [Slides PWA News](./docs/pwa.pdf)
+### Slides used in this lecture:  [Slides PWA News](./docs/pwa.pdf)
 
 ### Important links:
 
