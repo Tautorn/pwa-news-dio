@@ -1,4 +1,4 @@
-# This repository show how to create a PWA to read news.
+# This repository show an example of the a PWA to read news.
 
 Live code to [Digital Innovation One](https://digitalinnovation.one/)
 
