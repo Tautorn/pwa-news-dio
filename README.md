@@ -1,6 +1,6 @@
 # This repository show how to create a PWA to read news.
 
-Live code to Digital Innovation Live Coding
+Live code to [Digital Innovation One](https://digitalinnovation.one/)
 
 Organized at **07/21/2020 at 8 p.m (Brazil)**
 
@@ -9,8 +9,7 @@ Organized at **07/21/2020 at 8 p.m (Brazil)**
 
 ### API used in this POC: [API](https://github.com/Tautorn/pwa-news-api)
 
-### Slides used in this live coding: 
-[Slides PWA News](./docs/pwa.pdf)
+### Slides used in this live coding:  [Slides PWA News](./docs/pwa.pdf)
 
 ### Important links:
 
